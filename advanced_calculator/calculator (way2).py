@@ -1,5 +1,7 @@
 
 
+# By: Mohamed Hamed
+# Date: 2/7
 # advanced calculator (way 2)
 import math
 
