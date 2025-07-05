@@ -1,6 +1,6 @@
 a short idea:
 
-Advanced Scientific Calculator (no gui)
+Advanced Scientific Calculator
 A fully-featured command-line scientific calculator built in Python, designed to perform a wide range of basic, advanced, and trigonometric calculations with a clean user interface and robust error handling.
 
 Key Features:
