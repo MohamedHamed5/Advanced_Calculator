@@ -1,5 +1,7 @@
 
 
+# By: Mohamed Hamed
+# Date: 5/7
 # advanced calculator with gui (way 2)
 
 import tkinter as tk
